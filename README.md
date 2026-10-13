@@ -1,2 +1,4 @@
 # hello-git
-Laby hello-git PUT
+Repo used to learn
+## Author
+Made by AM&@&$
